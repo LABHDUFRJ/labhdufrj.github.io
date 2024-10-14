@@ -1,4 +1,4 @@
-# Repositório do website do Laboratório de Humanidades Digitais da Universidade Federal do Rio de Janeiro (UFRJ)
+# [Repositório do website do Laboratório de Humanidades Digitais da Universidade Federal do Rio de Janeiro (UFRJ)](https://labhdufrj.github.io/)
 
 ## Desenvolvedores
 
