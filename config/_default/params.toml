@@ -1,0 +1,102 @@
+#################### default parameters ################################
+# favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
+favicon = "images/favicon.png"
+# logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
+logo = "images/labhd.png"
+logo_darkmode = "images/labhd.png"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "32px"
+logo_height = "32px"
+# if logo_webp set false, will not generate WEBP version of logo | default is true
+logo_webp = true
+# logo text will only show when logo is missing.
+logo_text = "LABHDUFBA"
+# navbar fixed to top
+navbar_fixed = true
+# theme-mode
+theme_switcher = true
+theme_default = "system" # available options [light/dark/system]
+# Main Sections
+mainSections = ["blog", "pages", "authors"]
+# contact form action
+contact_form_action = "https://airform.io/labhdufba@gmail.com" # contact form works with [https://airform.io/] or [https://formspree.io]
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "G-576FN6TB84" # example: G-XXXXXXXXXX
+google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+[params]
+  custom_script = """
+  <!-- Google tag (gtag.js) -->
+  <script async src='https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84'></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-576FN6TB84');
+  </script>
+  """
+# copyright
+copyright = "<br>Parceiros<br><div class='center-content'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/cnpq.png' width='200' class='spaced-img'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'></div><br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024"
+# Preloader
+# preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+# search
+# search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
+[search]
+enable = true
+primary_color = "#121212"
+include_sections = ["pages", "about"]
+show_image = true
+show_description = true
+show_tags = true
+show_categories = true
+
+
+# seo meta data for opengraph / twitter card
+# seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
+[metadata]
+keywords = ["digital humanities", "ufba", "labhd", "digital humanities lab"]
+description = "UFBA Digital Humanities Laboratory - LABHDUFBA"
+author = "UFBA Digital Humanities Laboratory - LABHDUFBA"
+image = "images/labhd.png"
+
+
+# site verifications
+# verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
+[site_verification]
+google = ""   # your verification code
+bing = ""     # your verification code
+baidu = ""    # your verification code
+facebook = "" # your verification code
+mastodon = "" # your verification code
+
+# cookies
+# cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
+[cookies]
+enable = false
+expire_days = 60
+content = "this site uses cookies. by continuing to use this website, you agree to their use."
+button = "i accept"
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["categories", "tags"]
+
+
+# google map
+[google_map]
+enable = false
+map_api_key = "AIzaSyDlD3X3qboLn_RM8LUSwAqTozY_rxZ2rWA"
+map_latitude = "-13.003803230122143"
+map_longitude = "-38.509485278929155"
+map_marker = "images/marker.jpg"
+
+# subscription
+[subscription]
+enable = false
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"

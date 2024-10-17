@@ -1,0 +1,73 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Team"
+url = "authors/"
+weight = 3
+
+[[main]]
+name = "Research"
+url = "research/"
+weight = 4
+
+[[main]]
+name = "Tools"
+url = "tools/"
+weight = 5
+
+[[main]]
+name = "In the News"
+url = "inthenews/"
+weight = 7
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 8
+
+[[main]]
+weight = 6
+name = "Publications"
+hasChildren = true
+
+[[main]]
+parent = "Publications"
+name = "Articles"
+url = "articles/"
+weight = 1
+
+[[main]]
+parent = "Publications"
+name = "Reports"
+url = "reports/"
+weight = 2
+
+[[main]]
+parent = "Publications"
+name = "Youtube"
+url = "youtube/"
+weight = 3
+
+[[main]]
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
