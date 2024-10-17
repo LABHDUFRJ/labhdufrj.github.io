@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "LABHDUFBA"
+logo_text = "LABHDUFRJ"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -58,9 +58,9 @@ show_categories = true
 # seo meta data for opengraph / twitter card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["digital humanities", "ufba", "labhd", "digital humanities lab"]
-description = "UFBA Digital Humanities Laboratory - LABHDUFBA"
-author = "UFBA Digital Humanities Laboratory - LABHDUFBA"
+keywords = ["digital humanities", "ufrj", "labhd", "digital humanities lab"]
+description = "UFRJ Digital Humanities Laboratory - LABHDUFRJ"
+author = "UFRJ Digital Humanities Laboratory - LABHDUFRJ"
 image = "images/labhd.png"
 
 

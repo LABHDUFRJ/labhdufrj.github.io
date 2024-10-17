@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on LABHDUFBA</title>
-    <link>//localhost:1313/pt/pages/</link>
+    <link>/pt/pages/</link>
     <description>Recent content in Pages on LABHDUFBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <atom:link href="//localhost:1313/pt/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pt/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>//localhost:1313/pt/publications/</link>
+      <link>/pt/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/publications/</guid>
+      <guid>/pt/publications/</guid>
       <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
     </item>
     <item>
       <title>Artigos</title>
-      <link>//localhost:1313/pt/articles/</link>
+      <link>/pt/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/articles/</guid>
+      <guid>/pt/articles/</guid>
       <description>2024 NASCIMENTO, Leonardo Fernandes. Humanidades Digitais e Vigilância pela Democracia .</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>//localhost:1313/pt/elements/</link>
+      <link>/pt/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/elements/</guid>
+      <guid>/pt/elements/</guid>
       <description>Tópicos Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>Ferramentas</title>
-      <link>//localhost:1313/pt/tools/</link>
+      <link>/pt/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/tools/</guid>
+      <guid>/pt/tools/</guid>
       <description>Tópicos Ferramentas Scielo Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Wiki de Ferramentas Digitais Ferramentas Scielo Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.</description>
     </item>
     <item>
       <title>LABHD na mídia</title>
-      <link>//localhost:1313/pt/inthenews/</link>
+      <link>/pt/inthenews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/inthenews/</guid>
+      <guid>/pt/inthenews/</guid>
       <description>&#xD;Acesse a linha do tempo em nova aba Feito com TimelineJS </description>
     </item>
     <item>
       <title>Pesquisa</title>
-      <link>//localhost:1313/pt/research/</link>
+      <link>/pt/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/research/</guid>
+      <guid>/pt/research/</guid>
       <description>Tópicos Mineração de Dados para Humanidades Digitais Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram História Digital Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais Mineração de Dados para Humanidades Digitais A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais.</description>
     </item>
     <item>
       <title>Relatórios</title>
-      <link>//localhost:1313/pt/reports/</link>
+      <link>/pt/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/reports/</guid>
+      <guid>/pt/reports/</guid>
       <description>2024 O relatório analisa a disseminação de desinformação e teorias da conspiração relacionadas às enchentes no Rio Grande do Sul dentro de grupos e canais de extrema direita no Telegram.</description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>//localhost:1313/pt/youtube/</link>
+      <link>/pt/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/youtube/</guid>
+      <guid>/pt/youtube/</guid>
       <description>LABHD UFBA - 2020/10/5&#xD;Join us at the LABHDUFBA!&#xD;CAPES - 2024/04/2&#xD;Conferência Livre: Ciência no Combate à Desinformação&#xD;Programming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;Jornal da Cidade (Metro1) - 2022/12/20&#xD;Jornal da Cidade - Dra.</description>
     </item>
   </channel>
