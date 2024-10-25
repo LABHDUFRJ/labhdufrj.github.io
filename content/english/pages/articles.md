@@ -8,9 +8,19 @@ description: "LABHDUFBA publications"
 draft: false
 ---
 
+<div style="text-align: center;">
+
+**2024**
+
+**COMING SOON**
+
+</div>
+
+ <!--
+
 ##### 2024
 
-WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. **[Representações meméticas de “nós e eles”: humor e discurso de ódio em chats do Telegram](https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721)**. **Aurora. Revista de Arte, Mídia e Política**, São Paulo, v. 17, n. 49, p. 136–173, 2024.
+ WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. **[Representações meméticas de “nós e eles”: humor e discurso de ódio em chats do Telegram](https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721)**. **Aurora. Revista de Arte, Mídia e Política**, São Paulo, v. 17, n. 49, p. 136–173, 2024.
 
 JESUS, Juciane Pereira de; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; FONSECA, Paulo de Freitas Castro; BARRETO, Tarssio Brito. **[Tradições de pensamento anticomunista: as teorias da conspiração e o modus operandi do golpismo em grupos bolsonaristas do Telegram](https://apd.org.br/anexo-tradicoes-de-pensamento-anticomunista-as-teorias-da-conspiracao-e-o-modus-operandi-do-golpismo-em-grupos-bolsonaristas-do-telegram-traditions-of-anti-communist-thought-cons/)**. **Polifonia: Revista Internacional da Academia Paulista de Direito**, n. 13, Nova Série, 2024, Outono/Inverno.
 
@@ -101,3 +111,5 @@ NASCIMENTO, L. **[A Sociologia Digital: um desafio para o século XXI](https://w
 ALVES, Paulo Cesar; NASCIMENTO, Leonardo; CORREIA, Maria. **[Health and Traditional Fishing in All Saints Bay, Brazil](https://www.researchgate.net/publication/300442303_Health_and_Traditional_Fishing_in_All_Saints_Bay_Brazil)**. International Journal of Advances in Social Science and Humanities, v. 4, 2016.
 
 NASCIMENTO, L. **[O caso Uber no Brasil: um ensaio de sociologia digital](https://www.crolar.org/index.php/crolar/article/view/253/pdf)**. CROLAR: Critical Reviews in Latin American Research, v. 5, p. 1, 2016.
+
+-->
