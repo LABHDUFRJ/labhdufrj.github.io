@@ -39,7 +39,7 @@ features:
 
   - title: "Digital History and Cultural Analysis"
     image: "/images/research-digital-history.png"
-    content: "In collaboration with the University for International Integration of Afro-Brazilian Lusophony, LABHDUFRJ explores digital history, focusing on digitized documentary collections and online repositories. The lab seeks to develop new historiographical approaches and engage in methodological reflections, particularly concerning race, racism, and rights in the Americas."
+    content: "[LABHDUFBA](https://labhdufba.github.io/), our partner organization, conducts research in the field of Digital History in collaboration with the undergraduate History program at the University for [International Integration of Afro-Brazilian Lusophony](https://unilab.edu.br/). The lab seeks to develop new historiographical approaches and engage in methodological reflections, particularly concerning race, racism, and rights in the Americas."
     bulletpoints:
       - "Collaborative research in digital history"
       - "Methodological innovations in historical research and teaching"
