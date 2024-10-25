@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Laboratório de Humanidades Digitais da UFBA - LABHDUFBA"
+  title: "Laboratório de Humanidades Digitais da UFRJ - LABHDUFRJ"
   content: "Pesquisadores interessados em humanidades, dados e tecnologias digitais reunidos em um espaço para troca intelectual, pesquisa acadêmica e produção científica."
   image: false
   button:
     enable: true
     label: "Saiba mais"
-    link: https://labhdufba.github.io/pt/about/
+    link: https://labhdufrj.github.io/pt/about/
 
 # Features
 features:
