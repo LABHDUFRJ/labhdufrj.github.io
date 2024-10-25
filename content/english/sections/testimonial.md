@@ -4,10 +4,10 @@ title: "Recent Events"
 description: "Events and conferences"
 
 testimonials:
-  - name: "5th National Conference on ST&I"
-    designation: "National Conference on Science, Technology, and Innovation"
-    avatar: "/images/gallery/5-cti.jpeg"
-    content: "Participation of Leonardo Nascimento in the panel **Illuminating the Digital Ocean: scientific cooperation for transparency and informational integrity**, which will take place on April 2, 2024, at 2:00 PM, at Capes in Brasília. [*Access the event details here*](https://labhdufba.github.io/publications/)"
+  - name: "Seminar on Social Sciences and Digital Humanities"
+    designation: "Federal University of Rio de Janeiro — UFRJ"
+    avatar: "/images/gallery/IMAGEM.jpg"
+    content: "The Seminar on Social Sciences and Digital Humanities will take place on July 4 at IFCS/UFRJ, featuring a mini-course on computational methods and thematic panels on digital humanities and digital sociology. The seminar is organized by the LABHDUFRJ and the Center for Comparative Studies and Social Thought (NEPS-UFRJ/UFF) [*Access the event details here*](https://eventos.ufrj.br/evento/seminario-ciencias-sociais-e-humanidades-digitais/)"
 
   - name: "IX History Week"
     designation: "UNIFAL-MG"
