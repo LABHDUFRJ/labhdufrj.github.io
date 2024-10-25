@@ -1,7 +1,7 @@
 ---
-title: "LABHD in the news"
+title: "LABHDUFBA in the news"
 meta_title: ""
-description: "LABHD in the news"
+description: "LABHDUFBA in the news"
 draft: false
 ---
 
