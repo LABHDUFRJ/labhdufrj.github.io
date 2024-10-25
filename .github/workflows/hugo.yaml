@@ -56,6 +56,7 @@ jobs:
       - name: Install Node.js dependencies (PostCSS and others)
         run: |
           npm install postcss-cli
+          npm install @fullhuman/postcss-purgecss
           npm install
 
       - name: Setup Pages
