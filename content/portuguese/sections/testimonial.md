@@ -4,10 +4,10 @@ title: "Eventos recentes"
 description: "Eventos e Conferências"
 
 testimonials:
-  - name: "5ª Conferência Nacional de CT&I"
-    designation: "Conferência Livre: Ciência no Combate à Descinformação"
-    avatar: "/images/gallery/5-cti.jpeg"
-    content: "Participação de Leonardo Nascimento na mesa **Iluminando o Oceano Digital: cooperação científica para a transparência e integridade informacional** que acontecerá no dia 02 de abril de 2024, às 14h, na Capes em Brasília. [*Acesse aqui os detalhes do evento*](https://labhdufba.github.io/publications/)"
+  - name: "Seminário sobre Ciências Sociais e Humanidades Digitais"
+    designation: "Universidade Federal do Rio de Janeiro — UFRJ"
+    avatar: "/images/gallery/IMAGEM.jpg"
+    content: "O Seminário sobre Ciências Sociais e Humanidades Digitais ocorrerá no dia 4 de julho no IFCS/UFRJ, com um mini-curso sobre métodos computacionais e painéis temáticos sobre humanidades digitais e sociologia digital. O seminário é organizado pelo LABHDUFRJ e pelo Centro de Estudos Comparativos e Pensamento Social (NEPS-UFRJ/UFF) [*Acesse os detalhes do evento aqui*](https://eventos.ufrj.br/evento/seminario-ciencias-sociais-e-humanidades-digitais/)"
 
   - name: "IX Semana de História"
     designation: "UNIFAL-MG"
