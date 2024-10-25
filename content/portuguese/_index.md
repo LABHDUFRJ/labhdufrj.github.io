@@ -52,7 +52,7 @@ features:
 
   - title: "Junte-se à Equipe do LABHDUFRJ"
     image: "/images/join-us.png"
-    content: "O LABHDUFBA convida pesquisadores apaixonados por Humanidades Digitais a explorar, inovar e contribuir para nosso campo dinâmico. Com expertise em métodos e ferramentas digitais, infraestrutura computacional de ponta e uma equipe multidisciplinar vibrante, oferecemos um ambiente enriquecedor para crescimento acadêmico e profissional."
+    content: "O LABHDUFRJ convida pesquisadores apaixonados por Humanidades Digitais a explorar, inovar e contribuir para nosso campo dinâmico. Com expertise em métodos e ferramentas digitais, infraestrutura computacional de ponta e uma equipe multidisciplinar vibrante, oferecemos um ambiente enriquecedor para crescimento acadêmico e profissional."
     bulletpoints:
       - "Trabalhe com métodos e ferramentas digitais de ponta"
       - "Acesso a computadores avançados e infraestrutura tecnológica"
