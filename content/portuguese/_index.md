@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Mineração de Dados para Humanidades Digitais"
     image: "/images/research-data-mining.png"
-    content: "O LABHDUFBA é especializado no desenvolvimento de algoritmos de extração de dados para a web e redes sociais digitais, focando na integração de habilidades computacionais na pesquisa em humanidades. Esta iniciativa visa avaliar criticamente como as ferramentas digitais moldam a imaginação e as investigações nas humanidades, explorando os limites da lógica algorítmica."
+    content: "O LABHDUFRJ é especializado no desenvolvimento de algoritmos de extração de dados para a web e redes sociais digitais, focando na integração de habilidades computacionais na pesquisa em humanidades. Esta iniciativa visa avaliar criticamente como as ferramentas digitais moldam a imaginação e as investigações nas humanidades, explorando os limites da lógica algorítmica."
     bulletpoints:
       - "Desenvolvimento de algoritmos de extração de dados para web e redes sociais"
       - "Reflexão crítica sobre os impactos das ferramentas digitais na pesquisa em humanidades"
@@ -50,7 +50,7 @@ features:
       label: "Descubra Projetos de História"
       link: "pt/research"
 
-  - title: "Junte-se à Equipe do LABHDUFBA"
+  - title: "Junte-se à Equipe do LABHDUFRJ"
     image: "/images/join-us.png"
     content: "O LABHDUFBA convida pesquisadores apaixonados por Humanidades Digitais a explorar, inovar e contribuir para nosso campo dinâmico. Com expertise em métodos e ferramentas digitais, infraestrutura computacional de ponta e uma equipe multidisciplinar vibrante, oferecemos um ambiente enriquecedor para crescimento acadêmico e profissional."
     bulletpoints:
