@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "UFBA Digital Humanities Laboratory - LABHDUFBA"
+  title: "UFRJ Digital Humanities Laboratory - LABHDUFBA"
   content: "Researchers interested in humanities, data, and digital technologies gathered in a space for intellectual exchange, academic research, and scientific production."
   image: false
   button:
     enable: true
     label: "About us"
-    link: "https://labhdufba.github.io/about/"
+    link: "https://labhdufrj.github.io/about/"
 
 # Features
 features:
