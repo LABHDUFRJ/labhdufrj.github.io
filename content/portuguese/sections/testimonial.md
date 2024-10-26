@@ -5,8 +5,8 @@ description: "Eventos e Conferências"
 
 testimonials:
   - name: "Seminário sobre Ciências Sociais e Humanidades Digitais"
-    designation: "Universidade Federal do Rio de Janeiro — UFRJ"
-    avatar: "/images/gallery/IMAGEM.jpg"
+    designation: "UFRJ"
+    avatar: "/images/labhd.png"
     content: "O Seminário sobre Ciências Sociais e Humanidades Digitais ocorrerá no dia 4 de julho no IFCS/UFRJ, com um mini-curso sobre métodos computacionais e painéis temáticos sobre humanidades digitais e sociologia digital. O seminário é organizado pelo LABHDUFRJ e pelo Centro de Estudos Comparativos e Pensamento Social (NEPS-UFRJ/UFF) [*Acesse os detalhes do evento aqui*](https://eventos.ufrj.br/evento/seminario-ciencias-sociais-e-humanidades-digitais/)"
 
   - name: "IX Semana de História"
