@@ -1,12 +1,22 @@
 ---
 title: "Articles"
 # meta title
-meta_title: "Articles - LABHDUFBA pub"
+meta_title: "Articles - LABHDUFRJ pub"
 # meta description
-description: "LABHDUFBA publications"
+description: "LABHDUFRJ publications"
 # save as draft
 draft: false
 ---
+
+<div style="text-align: center;">
+
+**2024**
+
+**COMING SOON**
+
+</div>
+
+<!--
 
 ##### 2023
 
@@ -57,3 +67,5 @@ NASCIMENTO, L.; ALECRIM, M.; OLIVEIRA, J.; OLIVEIRA, M.; COSTA, S. [“Não falo
 NASCIMENTO, L. [A Sociologia Digital: um desafio para o século XXI](https://www.scielo.br/j/soc/a/y9gtcQSrjjXVyRfryrKpXBk/?format=pdf&lang=pt). **Sociologias** (UFRGS), v. 18, p. 216-241, 2016.
 
 NASCIMENTO, L. [O caso Uber no Brasil: um ensaio de sociologia digital](https://www.crolar.org/index.php/crolar/article/view/253/pdf). **CROLAR**: Crticial Reviews in Latin American Research, v. 5, p. 1, 2016. 4
+
+-->

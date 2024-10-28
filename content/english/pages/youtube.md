@@ -31,6 +31,12 @@ draft: false
 }
 </style>
 
+<p style="text-align: center;">
+COMING SOON
+</p>
+
+<!--
+
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">LABHD UFBA - 2020/10/5</div>
@@ -109,3 +115,5 @@ draft: false
     </div>
 </div>
 ---
+
+-->
