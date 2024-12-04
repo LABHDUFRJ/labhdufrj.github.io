@@ -2,7 +2,7 @@
 title: Renan Aguiar do Nascimento
 weight: 7
 email:
-image: "/images/renanaguiar.jpeg"
+image: "/images/renanaguiar.jpg"
 description: infos about member
 social:
   - name: lattes

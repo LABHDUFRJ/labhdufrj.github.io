@@ -2,7 +2,7 @@
 title: Gabriely Silva Fraga
 weight: 5
 email:
-image: "/images/gabrielysilva.jpeg"
+image: "/images/gabrielysilva.jpg"
 description: infos about member
 social:
   - name: lattes
@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/9764460988713530
 ---
 
-Graduanda de Bacharel em Ciências Sociais na Universidade Federal do Rio de Janeiro (UFRJ). Pesquisadora voluntária no Laboratório de Humanidades Digitais da UFRJ (LABHDUFRJ). Atua também como extensionista voluntária no Projeto Campo-Cidade, desenvolvendo ferramentas de gestão e fortalecimento no Armazém do Campo do MST.
+Graduanda de Bacharel em Ciências Sociais na Universidade Federal do Rio de Janeiro (UFRJ); Pesquisadora voluntária no Laboratório de Humanidades Digitais da UFRJ (LABHDUFRJ); Atua também como extensionista voluntária no Projeto Campo-Cidade, desenvolvendo ferramentas de gestão e fortalecimento no Armazém do Campo do MST.

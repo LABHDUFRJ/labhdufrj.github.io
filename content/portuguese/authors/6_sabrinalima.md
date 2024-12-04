@@ -2,7 +2,7 @@
 title: Sabrina Lima
 weight: 6
 email:
-image: "/images/sabrinalima.jpeg"
+image: "/images/sabrinalima.jpg"
 description: infos about member
 social:
   - name: lattes
