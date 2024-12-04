@@ -34,7 +34,7 @@
     "prettier-plugin-tailwindcss": "^0.5.13",
     "sass": "^1.75.0",
     "tailwind-bootstrap-grid": "^5.1.0",
-    "tailwindcss": "^3.4.14"
+    "tailwindcss": "^3.4.16"
   },
   "dependencies": {
     "postcss-cli": "^11.0.0",
