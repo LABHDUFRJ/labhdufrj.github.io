@@ -2,280 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/pt/authors/1_leonardo-nascimento/</loc>
+    <loc>//localhost:1313/pt/authors/1_brunoduraes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/1_leonardo-nascimento/"
+                href="//localhost:1313/authors/1_brunoduraes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/1_leonardo-nascimento/"
+                href="//localhost:1313/pt/authors/1_brunoduraes/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/2_eric-brasil/</loc>
+    <loc>//localhost:1313/pt/authors/2_alexandrebarbosa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/2_eric-brasil/"
+                href="//localhost:1313/authors/2_alexandrebarbosa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/2_eric-brasil/"
+                href="//localhost:1313/pt/authors/2_alexandrebarbosa/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/3_rosana/</loc>
+    <loc>//localhost:1313/pt/authors/3_joycelouback/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/3_rosana/"
+                href="//localhost:1313/authors/3_joycelouback/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/3_rosana/"
+                href="//localhost:1313/pt/authors/3_joycelouback/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/4_leticia/</loc>
+    <loc>//localhost:1313/pt/authors/4_josevictor/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/4_leticia/"
+                href="//localhost:1313/authors/4_josevictor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/4_leticia/"
+                href="//localhost:1313/pt/authors/4_josevictor/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/5_juci/</loc>
+    <loc>//localhost:1313/pt/authors/5_gabrielysilva/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/5_juci/"
+                href="//localhost:1313/authors/5_gabrielysilva/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/5_juci/"
+                href="//localhost:1313/pt/authors/5_gabrielysilva/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/6_tarssio/</loc>
+    <loc>//localhost:1313/pt/authors/6_sabrinalima/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/6_tarssio/"
+                href="//localhost:1313/authors/6_sabrinalima/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/6_tarssio/"
+                href="//localhost:1313/pt/authors/6_sabrinalima/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/7_alan/</loc>
+    <loc>//localhost:1313/pt/authors/7_renanaguiar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/7_alan/"
+                href="//localhost:1313/authors/7_renanaguiar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/7_alan/"
+                href="//localhost:1313/pt/authors/7_renanaguiar/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/8_ric/</loc>
+    <loc>//localhost:1313/pt/authors/8_marialucia/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/8_ric/"
+                href="//localhost:1313/authors/8_marialucia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/8_ric/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/9_grazi/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/9_grazi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/9_grazi/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/10_thibau/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/10_thibau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/10_thibau/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/11_arthur/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/11_arthur/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/11_arthur/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/12_jorge/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/12_jorge/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/12_jorge/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/13_bruno/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/13_bruno/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/13_bruno/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/14_jonata/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/14_jonata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/14_jonata/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/15_icaro/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/15_icaro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/15_icaro/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/16_indianara/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/16_indianara/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/16_indianara/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/17_desiree/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/17_desiree/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/17_desiree/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/18_romero/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/18_romero/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/18_romero/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/19_vitor/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/19_vitor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/19_vitor/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/20_eric-maia/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/20_eric-maia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/20_eric-maia/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/21_alisson/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/21_alisson/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/21_alisson/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/22_matheus/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/22_matheus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/22_matheus/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/23_daniel/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/23_daniel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/23_daniel/"
+                href="//localhost:1313/pt/authors/8_marialucia/"
                 />
   </url><url>
     <loc>//localhost:1313/pt/</loc>
