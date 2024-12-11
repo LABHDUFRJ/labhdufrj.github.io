@@ -55,9 +55,11 @@ jobs:
 
       - name: Install Node.js dependencies (PostCSS and others)
         run: |
-          npm install postcss-cli
+          npm install tailwindcss autoprefixer postcss postcss-cli
           npm install @fullhuman/postcss-purgecss
-          npm install
+      
+      - name: Update npm
+        run: npm install -g npm@latest
 
       - name: Setup Pages
         id: pages
