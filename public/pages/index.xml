@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on LABHDUFRJ</title>
-    <link>//localhost:32843/pages/</link>
+    <link>//localhost:1313/pages/</link>
     <description>Recent content in Pages on LABHDUFRJ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:32843/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>//localhost:32843/articles/</link>
+      <link>//localhost:1313/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/articles/</guid>
+      <guid>//localhost:1313/articles/</guid>
       <description>2024&#xA;COMING SOON</description>
     </item>
     <item>
       <title>Articles</title>
-      <link>//localhost:32843/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/publications/</guid>
+      <guid>//localhost:1313/publications/</guid>
       <description>2024&#xA;COMING SOON</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>//localhost:32843/elements/</link>
+      <link>//localhost:1313/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/elements/</guid>
+      <guid>//localhost:1313/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>LABHDUFBA in the news</title>
-      <link>//localhost:32843/inthenews/</link>
+      <link>//localhost:1313/inthenews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/inthenews/</guid>
-      <description> Access the timeline in a new tab Made with TimelineJS </description>
+      <guid>//localhost:1313/inthenews/</guid>
+      <description>&#xD;Access the timeline in a new tab Made with TimelineJS </description>
     </item>
     <item>
       <title>Reports</title>
-      <link>//localhost:32843/reports/</link>
+      <link>//localhost:1313/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/reports/</guid>
+      <guid>//localhost:1313/reports/</guid>
       <description>2024&#xA;COMING SOON</description>
     </item>
     <item>
       <title>Research</title>
-      <link>//localhost:32843/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/research/</guid>
+      <guid>//localhost:1313/research/</guid>
       <description>Table of Contents Data Mining for Digital Humanities Analysis of Multi-Platform Ecosystems of Disinformation and Radicalization through Telegram Digital History Ethical, Social, and Political Implications of Digital Technoscience The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media Data Mining for Digital Humanities The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
     </item>
     <item>
       <title>Tools</title>
-      <link>//localhost:32843/tools/</link>
+      <link>//localhost:1313/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/tools/</guid>
+      <guid>//localhost:1313/tools/</guid>
       <description>Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>//localhost:32843/youtube/</link>
+      <link>//localhost:1313/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:32843/youtube/</guid>
-      <description> COMING SOON </description>
+      <guid>//localhost:1313/youtube/</guid>
+      <description>&#xD;COMING SOON&#xD;</description>
     </item>
   </channel>
 </rss>
