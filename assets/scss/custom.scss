@@ -9,6 +9,24 @@
 .spaced-img {
   margin: 0 10px; /* Adiciona 10px de margem à esquerda e à direita */
 }
+/* Estilo do botão para o nome do autor */
+.author-button {
+  display: inline-block;
+  padding: 5px 10px; /* Margem interna para ajustar tamanho */
+  background-color: #f0f0f0; /* Cor de fundo suave */
+  color: #333; /* Cor do texto */
+  font-weight: bold; /* Deixe o texto em negrito */
+  border: 1px solid #ddd; /* Borda sutil */
+  border-radius: 5px; /* Arredondamento das bordas */
+  text-decoration: none; /* Remove o sublinhado */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Efeito suave */
+}
+
+.author-button:hover {
+  background-color: #242b32; /* Cor de fundo ao passar o mouse */
+  color: #fff; /* Cor do texto ao passar o mouse */
+  cursor: pointer; /* Cursor de mão */
+}
 
 .container {
   max-width: 1200px;
