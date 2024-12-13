@@ -27,11 +27,6 @@ url = "tools/"
 weight = 5
 
 [[main]]
-name = "Na Mídia"
-url = "inthenews/"
-weight = 7
-
-[[main]]
 name = "Contato"
 url = "contact/"
 weight = 8

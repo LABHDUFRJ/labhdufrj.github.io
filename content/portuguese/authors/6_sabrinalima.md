@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/1628822714405899
 ---
 
-Estudante de bacharelado em Ciências sociais pela UFRJ, pesquisadora voluntária no Laboratório de Humanidades Digitais da UFRJ (LABHDUFRJ) com diversos cursos complementares na área de sociologia e humanidades digitais onde busca compreender melhor a reinvenção das áreas de ciências humanas perante a evolução tecnológica.
+Estudante de bacharelado em Ciências sociais pela UFRJ, pesquisadora voluntária no Laboratório de Humanidades Digitais da UFRJ (LABHDUFRJ). Concluiu diversos cursos complementares na área de sociologia e humanidades digitais, onde busca compreender melhor a reinvenção das áreas de ciências humanas perante a evolução tecnológica.
