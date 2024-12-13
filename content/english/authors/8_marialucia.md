@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/8534256467814201
 ---
 
-Undergraduate student in Social Sciences Teaching at UFRJ and a certified Occupational Safety Technician from CEFET-RJ; Participates in UFRJ's Digital Humanities Laboratory and the 'Sociology in Play' extension project; Develops research on the New High School implementation and urban sociabilities.
+Undergraduate student in Social Sciences Teaching at UFRJ and a certified Occupational Safety Technician from CEFET-RJ. Participates in UFRJ's Digital Humanities Laboratory and the 'Sociology in Play' extension project; Develops research on the New High School implementation and urban sociabilities.
