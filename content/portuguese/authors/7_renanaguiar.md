@@ -1,12 +1,12 @@
 ---
-title: Renan Aguiar
+title: Renan Aguiar do Nascimento
 weight: 7
 email:
 image: "/images/renanaguiar.jpg"
 description: infos about member
 social:
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/9052402118449102
 ---
 

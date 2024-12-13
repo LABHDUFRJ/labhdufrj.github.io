@@ -1,12 +1,12 @@
 ---
-title: Bruno José Durães
+title: Bruno José Rodrigues Durães
 weight: 1
 email:
 image: "/images/brunoduraes.jpg"
 description: infos about member
 social:
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/4781910791472503
 ---
 

@@ -6,7 +6,7 @@ image: "/images/gabrielysilva.jpg"
 description: infos about member
 social:
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/9764460988713530
 ---
 
