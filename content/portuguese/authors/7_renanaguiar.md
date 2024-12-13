@@ -1,5 +1,5 @@
 ---
-title: Renan Aguiar
+title: Renan Aguiar do Nascimento
 weight: 7
 email:
 image: "/images/renanaguiar.jpg"

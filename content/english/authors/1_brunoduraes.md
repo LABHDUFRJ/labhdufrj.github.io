@@ -1,5 +1,5 @@
 ---
-title: Bruno José Durães
+title: Bruno José Rodrigues Durães
 weight: 1
 email:
 image: "/images/brunoduraes.jpg"

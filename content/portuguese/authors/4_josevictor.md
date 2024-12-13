@@ -1,5 +1,5 @@
 ---
-title: José Victor Yunes
+title: José Victor Yunes da Cunha
 weight: 4
 email:
 image: "/images/josevictor.jpg"

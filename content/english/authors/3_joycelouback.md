@@ -1,5 +1,5 @@
 ---
-title: Joyce Louback
+title: Joyce Louback Lourenço
 weight: 3
 email:
 image: "/images/joycelouback.jpg"

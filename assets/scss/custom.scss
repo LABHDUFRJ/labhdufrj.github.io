@@ -10,23 +10,68 @@
   margin: 0 10px; /* Adiciona 10px de margem à esquerda e à direita */
 }
 /* Estilo do botão para o nome do autor */
+/* Contêiner para os botões */
+
+/* Definição das cores no tema claro */
+:root {
+  --button-bg-light: #e0e0e0; /* Fundo claro para botões */
+  --button-text-light: #242b32; /* Texto escuro */
+  --button-hover-bg-light: #242b32; /* Fundo no hover */
+  --button-hover-text-light: #ffffff; /* Texto branco no hover */
+}
+
+/* Definição das cores no tema escuro */
+:root.dark {
+  --button-bg-light: #3c3c3c; /* Fundo mais escuro para botões */
+  --button-text-light: #f0f0f0; /* Texto claro */
+  --button-hover-bg-light: #ffffff; /* Fundo no hover */
+  --button-hover-text-light: #000000; /* Texto preto no hover */
+}
+
+/* Botão do Nome do Autor */
 .author-button {
-  display: inline-block;
-  padding: 5px 10px; /* Margem interna para ajustar tamanho */
-  background-color: #e0e0e0; /* Cinza claro para fundo, harmonizado com os tons neutros */
-  color: #242b32; /* Texto com tom escuro para contraste */
-  font-weight: bold; /* Texto em negrito */
-  border: 1px solid #d6d6d6; /* Borda sutil em tom neutro */
-  border-radius: 5px; /* Arredondamento das bordas */
-  text-decoration: none; /* Remove o sublinhado */
-  transition: background-color 0.3s ease, color 0.3s ease; /* Efeito suave */
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: var(--button-bg-light);
+  color: var(--button-text-light);
+  font-weight: bold;
+  border: 1px solid #d6d6d6;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .author-button:hover {
-  background-color: #242b32; /* Fundo preto ao passar o mouse */
-  color: #f0f0f0; /* Texto claro ao passar o mouse */
-  cursor: pointer; /* Cursor de mão */
-  border-color: #242b32; /* Borda combinando com o fundo no hover */
+  background-color: var(--button-hover-bg-light);
+  color: var(--button-hover-text-light);
+  cursor: pointer;
+}
+
+/* Botão Social */
+.social-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: var(--button-bg-light);
+  color: var(--button-text-light);
+  border: 1px solid #d6d6d6;
+  border-radius: 50%;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.social-button:hover {
+  background-color: var(--button-hover-bg-light);
+  color: var(--button-hover-text-light);
+  cursor: pointer;
+}
+
+
+/* Justificar texto no autor-card */
+.bg-theme-light p {
+  text-align: justify; /* Justifica o texto */
 }
 
 
