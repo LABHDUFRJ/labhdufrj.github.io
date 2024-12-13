@@ -1,5 +1,5 @@
 ---
-title: Sabrina Lima
+title: Sabrina De Lima Rodrigues
 weight: 6
 email:
 image: "/images/sabrinalima.jpg"
