@@ -1,12 +1,12 @@
 ---
-title: José Victor Yunes da Cunha
+title: José Victor Yunes
 weight: 4
 email:
 image: "/images/josevictor.jpg"
 description: infos about member
 social:
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/3727880744665106
 ---
 

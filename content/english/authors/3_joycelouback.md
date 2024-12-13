@@ -6,7 +6,7 @@ image: "/images/joycelouback.jpg"
 description: infos about member
 social:
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/5031782796726405
 ---
 

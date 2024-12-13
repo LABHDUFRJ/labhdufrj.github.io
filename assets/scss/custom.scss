@@ -13,20 +13,22 @@
 .author-button {
   display: inline-block;
   padding: 5px 10px; /* Margem interna para ajustar tamanho */
-  background-color: #f0f0f0; /* Cor de fundo suave */
-  color: #333; /* Cor do texto */
-  font-weight: bold; /* Deixe o texto em negrito */
-  border: 1px solid #ddd; /* Borda sutil */
+  background-color: #e0e0e0; /* Cinza claro para fundo, harmonizado com os tons neutros */
+  color: #242b32; /* Texto com tom escuro para contraste */
+  font-weight: bold; /* Texto em negrito */
+  border: 1px solid #d6d6d6; /* Borda sutil em tom neutro */
   border-radius: 5px; /* Arredondamento das bordas */
   text-decoration: none; /* Remove o sublinhado */
   transition: background-color 0.3s ease, color 0.3s ease; /* Efeito suave */
 }
 
 .author-button:hover {
-  background-color: #242b32; /* Cor de fundo ao passar o mouse */
-  color: #fff; /* Cor do texto ao passar o mouse */
+  background-color: #242b32; /* Fundo preto ao passar o mouse */
+  color: #f0f0f0; /* Texto claro ao passar o mouse */
   cursor: pointer; /* Cursor de mão */
+  border-color: #242b32; /* Borda combinando com o fundo no hover */
 }
+
 
 .container {
   max-width: 1200px;
