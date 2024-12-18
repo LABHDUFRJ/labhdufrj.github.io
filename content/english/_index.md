@@ -11,6 +11,14 @@ banner:
 
 # Features
 features:
+  - title: "Latin American Seminar on Computational Social Sciences"
+    image: "/images/seminariolatino.jpg"
+    content: "LABHDUFRJ invites you to the Latin American Seminar on Computational Social Sciences at IFCS/UFRJ, celebrating interdisciplinarity between the humanities and computational sciences. From December 4 to 6, experts from Brazil, Argentina, Mexico, and Colombia will engage in discussions about groundbreaking topics in the field."
+    button:
+      enable: true
+      label: "Explore Our Research"
+      link: "/research"
+
   - title: "Data Mining for Digital Humanities"
     image: "/images/research-data-mining.png"
     content: "LABHDUFRJ specializes in developing data extraction algorithms for web and digital social networks, focusing on the integration of computational skills in humanities research. This initiative aims to critically assess how digital tools shape imagination and investigations in humanities, exploring the boundaries of algorithmic logic."

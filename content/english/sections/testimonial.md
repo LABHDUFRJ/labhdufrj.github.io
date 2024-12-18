@@ -4,6 +4,11 @@ title: "Recent Events"
 description: "Events and conferences"
 
 testimonials:
+  - name: "Latin American Seminar on Computational Social Sciences"  
+    designation: "IFCS-UFRJ" 
+    avatar: "/images/seminariolatino.jpg"  
+    content: "🌐 LABHDUFRJ celebrates interdisciplinarity between the humanities and computational sciences and invites you to the Latin American Seminar on Computational Social Sciences at IFCS/UFRJ, from December 4 to 6. Experts from Brazil, Argentina, Mexico, and Colombia will discuss topics such as social media analysis, the impact of algorithms, and innovative research methods."  
+ 
   - name: "Seminar on Social Sciences and Digital Humanities"
     designation: "Federal University of Rio de Janeiro — UFRJ"
     avatar: "/images/gallery/labhd.png"
