@@ -11,6 +11,14 @@ banner:
 
 # Features
 features:
+  - title: "Seminário Latino-Americano de Ciências Sociais Computacionais"
+    image: "/images/seminariolatino.jpg"
+    content: "O LABHDUFRJ convida você para o Seminário Latino-Americano de Ciências Sociais Computacionais no IFCS/UFRJ, celebrando a interdisciplinaridade entre as ciências humanas e computacionais. De 4 a 6 de dezembro, especialistas do Brasil, Argentina, México e Colômbia debaterão temas inovadores na área."
+    button:
+      enable: true
+      label: "Explore nossa pesquisa"
+      link: "/research"
+
   - title: "Mineração de Dados para Humanidades Digitais"
     image: "/images/research-data-mining.png"
     content: "O LABHDUFRJ é especializado no desenvolvimento de algoritmos de extração de dados para a web e redes sociais digitais, focando na integração de habilidades computacionais na pesquisa em humanidades. Esta iniciativa visa avaliar criticamente como as ferramentas digitais moldam a imaginação e as investigações nas humanidades, explorando os limites da lógica algorítmica."
